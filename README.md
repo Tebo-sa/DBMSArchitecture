@@ -1,2 +1,0 @@
-# DBMSArchitecture
-DBMS1141
